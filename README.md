@@ -1,11 +1,10 @@
-<h1 align="center">Hi 👋, I'm Sebastián Dalmaso</h1>
-<h3 align="center">🎓 I'm an electronic engineering student at **UTN Facultad Regional Mendoza**.</h3>
+<h1 align="center">Hi 👋, My name is Sebastián Dalmaso</h1>
+<h3 align="center">🎓 I'm an electronic engineering student at UTN Facultad Regional Mendoza.</h3>
 
 ---
 
 ### ⚡ About Me
 
-- 🎓 I'm an electronic engineering student at **UTN Facultad Regional Mendoza**.
 - 💬 Languages: **Spanish** / **English**
 - 🎧 I'm interested in projects that **fuse electronics and audio**!
 - 💡 Always looking to learn and create with technology.
