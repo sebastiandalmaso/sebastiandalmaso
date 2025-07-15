@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sebastián Dalmaso</h1>
-<h3 align="center">An electronic engineering student at Universidad Tecnológica Nacional Facultad Regional Mendoza.</h3>
+<h3 align="center">🎓 I'm an electronic engineering student at **UTN Facultad Regional Mendoza**.</h3>
 
 ---
 
